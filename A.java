@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "메인 브랜치에서 변경한 변수";
+    String str = "컨플릭트1 브랜치에서 변경 함";
 
     public void method1(){
 
