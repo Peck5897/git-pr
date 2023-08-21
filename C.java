@@ -5,7 +5,7 @@ public Class C(){
         char a = '김';
     }
     public void method2(){
-        char g = '이';
+        String str = "메인브랜치에서 변경한 메소드"
     }
     public void method3(){
         
